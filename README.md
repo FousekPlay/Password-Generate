@@ -18,10 +18,10 @@ Fruto de esforço e estudo pessoal.
 <br>
 <h2> 💻Browser panel  </h2>
 <p aling="center">
-<img alt="Projeto WebLink" src=".github/gerador_de_se.jpeg" width="100%">
+<img alt="Projeto WebLink" src=".github/gerador_de_se.jpeg" width="60%">
 </p>
 <p aling="center">
-<img alt="Projeto WebLink" src=".github/gerador_de_ss.jpeg" width="100%">
+<img alt="Projeto WebLink" src=".github/gerador_de_ss.jpeg" width="60%">
 </p>
 
 
